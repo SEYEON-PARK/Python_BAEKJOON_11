@@ -14,4 +14,4 @@ while(B>=10):
     if(B<10):
         break
 
-print(A*B)
+print(A*B) #출력하기
